@@ -1,1 +1,2 @@
 Funcionalidad A: en desarrollo
+Funcionalidad B: en desarrollo
