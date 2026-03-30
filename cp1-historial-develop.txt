@@ -1,0 +1,6 @@
+800785a (HEAD -> develop) HOTFIX: corrige error crítico en login
+368ca00 Añade funcionalidad B en develop
+a484f97 Añade funcionalidad A en develop
+c3b55f6 (main) Crea versión 1.0 de la app
+78df12e (origin/main, origin/HEAD) add deadline
+8c0fb31 Initial commit
