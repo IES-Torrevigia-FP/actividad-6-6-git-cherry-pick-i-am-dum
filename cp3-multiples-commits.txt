@@ -1,0 +1,17 @@
+066d845 Añade funcionalidad B en develop
+6af06bb HOTFIX: corrige error crítico en login
+92b09d0 HOTFIX: corrige error crítico en login
+c3b55f6 Crea versión 1.0 de la app
+78df12e add deadline
+8c0fb31 Initial commit
+
+Funcionalidad A: en desarrollo
+Funcionalidad B: en desarrollo
+HOTFIX: corrige error crítico en login
+
+Merge trae toda una rama con todos sus commits y cambios a tu
+rama actual
+
+Cherry-pick trae commits especificos de otra rama,
+aplciandolos individualmente sin afectar el resto de los
+cambios de esa rama
