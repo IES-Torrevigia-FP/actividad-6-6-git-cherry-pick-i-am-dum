@@ -1,3 +1,4 @@
 Funcionalidad A: en desarrollo
 Funcionalidad B: en desarrollo
 HOTFIX: corrige error crítico en login
+HOTFIX: cambio alternativo en login (develop)
